@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Christopher J Neelankavil, and I'm a passionate mobile app developer from Kerala, India.</h2>
+<h2 align="left">Hi 👋! My name is Christopher J Neelankavil, and I'm a passionate mobile app developer.</h2>
 
 ### About Me
 
